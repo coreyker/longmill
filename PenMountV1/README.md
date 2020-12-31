@@ -4,6 +4,16 @@ This pen mount attaches to the 65mm router mount on the sienci longmill. It uses
 
 In retrospect this is not the best design since the router needs to be removed in order to use the pen mount (and this is tedious given that the router power cable is threaded through the drag chain). At some point I might design a different pen mount that can attach to the side of the router, so it can be used without having to remove it.
 
+### A picture:
+
 ![Pen Mount](img/penmount.jpg)
+
+### A video: 
+
+[See this instagram post](https://www.instagram.com/p/CA1KPYFBa84/?utm_source=ig_web_copy_link)
+
+
+
+
 
 
