@@ -10,7 +10,7 @@ In retrospect this is not the best design since the router needs to be removed i
 
 ### A video: 
 
-[See this instagram post](https://www.instagram.com/p/CA1KPYFBa84/?utm_source=ig_web_copy_link)
+![Pen Mount](img/penmount.gif)
 
 
 
