@@ -1,5 +1,7 @@
 ## Drag knife/pen mount
 
+![Drag Knife Mount](img/dragknife.jpg)
+
 - This uses three 3d printed parts (the top, base, and moving centre piece)
 - The centre piece uses 2 LM8UU bearings, 2 8mm rods, and up to 2 springs with inner diameter > 8mm
 - I bought my bearings, rods, and drag knife off of aliexpress, but you can get them from amazon as well (usually faster, but more expensive)
